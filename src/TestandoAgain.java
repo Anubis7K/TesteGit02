@@ -3,6 +3,7 @@ public class TestandoAgain {
 
 	public static void main(String[] args) {
 		System.out.print("Atualizando no git");
+		System.out.println("\nErick Alves passou por aqui.");
 		
 		int num1 = 8;
 		int num2 = 10;
